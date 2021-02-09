@@ -1,0 +1,66 @@
+.hidden
+{
+	display: none;
+}
+
+#container
+{
+	width: 980px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+#mainHeader
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	margin: 0 auto;
+}
+
+#header
+{
+	float: left;
+	width: 600px;
+	height: 282px;
+	background-color: #332d2d;
+}
+
+#nav
+{
+	width: 172px;
+	height: 282px;
+	background-color: #332d2d;
+	margin-left: 700px;
+	margin-bottom: 20px;
+}
+
+#heroimgcont
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	margin: 0 auto;
+	margin-bottom: 30px;
+}
+
+#heroimgcont
+{
+	width: 600px;
+	height: 282px;
+	background-color: #332d2d
+}
+#heroimg
+{
+	width: 600px;
+	height: 282px;
+	background-color: #332d2d;
+}
+
+#info
+{
+	float: right;
+	width: 172px;
+	height: 282px;
+	background-color: #332d2d;
+}
