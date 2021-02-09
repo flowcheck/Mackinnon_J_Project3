@@ -46,6 +46,7 @@
 
 #heroimgcont
 {
+	float: left;
 	width: 600px;
 	height: 282px;
 	background-color: #332d2d
@@ -60,7 +61,7 @@
 #info
 {
 	float: right;
-	width: 172px;
+	width: 600px;
 	height: 282px;
 	background-color: #332d2d;
 }
