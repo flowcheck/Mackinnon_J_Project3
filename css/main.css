@@ -23,14 +23,14 @@
 	float: left;
 	width: 600px;
 	height: 282px;
-	background-color: #332d2d;
+	background-color: #FA9900;
 }
 
 #nav
 {
 	width: 172px;
 	height: 282px;
-	background-color: #332d2d;
+	background-color: #96D100;
 	margin-left: 700px;
 	margin-bottom: 20px;
 }
@@ -49,13 +49,13 @@
 	float: left;
 	width: 600px;
 	height: 282px;
-	background-color: #332d2d
+	background-color: #705BFF
 }
 #heroimg
 {
 	width: 600px;
 	height: 282px;
-	background-color: #332d2d;
+	background-color: #00E0F1;
 }
 
 #info
@@ -63,5 +63,15 @@
 	float: right;
 	width: 600px;
 	height: 282px;
-	background-color: #332d2d;
+	background-color: #FF09C9;
+}
+
+#footer
+{
+	display: flex;
+	justify-content: flex-start;
+	height: 40px;
+	width: 980px;
+	margin-top: 45px;
+	background-color: #8900C8
 }
